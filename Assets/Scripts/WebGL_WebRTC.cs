@@ -35,7 +35,7 @@ public class WebGL_WebRTC : MonoBehaviour
         _sendTexture = new RenderTexture(
             _sendWidth,
             _sendHeight,
-            0,
+            24,
             RenderTextureFormat.ARGB32,
             0
         );
