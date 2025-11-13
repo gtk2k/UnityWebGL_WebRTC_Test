@@ -2,7 +2,7 @@
 This is a test implementation of video chat using WebRTC with Unity's WebGL.
 Only video communication is implemented; audio communication and DataChannel are not.
 
-Unity version confirmed to work: &.2
+Unity version confirmed to work: 6.2
 
 # Graphics API `WebGPU` is not supported.
 It is implemented using GLctx, it does not support Graphics API: `WebGPU`
